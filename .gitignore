@@ -1,0 +1,5 @@
+/.env
+/.python-version
+/.venv
+/subspace_method.txt
+/uv.lock
