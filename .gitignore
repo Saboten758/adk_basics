@@ -1,5 +1,5 @@
-/.env
+.venv
 /.python-version
-/.venv
 /subspace_method.txt
 /uv.lock
+__pycache__/
